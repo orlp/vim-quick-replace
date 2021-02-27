@@ -1,5 +1,12 @@
 # vim-quick-replace
 
+A plugin to do some quick find/replace actions smooth as butter.
+
+![Gif](https://i.imgur.com/wEX6O1w.gif)
+
+Requires tpope's vim-repeat plugin. But at the time of writing it
+has a bug, so I offer the following patched version: https://github.com/orlp/vim-repeat
+
 This Vim plugin offers the following commands you can map:
 
     <Plug>(QuickReplaceWord)
